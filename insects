@@ -1,0 +1,10 @@
+<!DOCTYPE HTML>
+<HTML>
+  <body>
+   <body topmargin="50">
+   <body leftmargin="50">
+   <h1>Lehigh Enrollment by School</h1>
+   <h2>Lindsey Taub<h2>
+  <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1fiYBCxCWiT4avmgrF4S6xWOeu57ytumf2CDPze1E&amp;viz=MAP&amp;h=false&amp;lat=11.791627227599221&amp;lng=-84.6658769360352&amp;t=1&amp;z=8&amp;l=col12&amp;y=2&amp;tmplt=3&amp;hml=TWO_COL_LAT_LNG"></iframe>
+   </body>
+</html>
