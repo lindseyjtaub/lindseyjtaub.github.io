@@ -6,7 +6,6 @@ My name is Lindsey Taub. I'm a journalism and graphic design major with a minor 
 # Personal Links
 [LinkedIn](https://www.linkedin.com/in/lindseytaub/)
 
-
 [Twitter](https://twitter.com/LindseyTaub)
 
 # Projects
