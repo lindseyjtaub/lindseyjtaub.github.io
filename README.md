@@ -23,4 +23,8 @@ Below is a chart comparing the use of e-cigarettes in high school and middle sch
 Below is data and a graphic about the current job openings at Lehigh University. Data was scraped using ParceHub.
 ![photo](jobs.png)
 <iframe id="datawrapper-chart-wQJKW" src="//datawrapper.dwcdn.net/wQJKW/1/" scrolling="no" frameborder="0" allowtransparency="true" style="width: 0; min-width: 100% !important;" height="164"></iframe><script type="text/javascript">if("undefined"==typeof window.datawrapper)window.datawrapper={};window.datawrapper["wQJKW"]={},window.datawrapper["wQJKW"].embedDeltas={"100":273,"200":206,"300":189,"400":164,"500":164,"700":164,"800":164,"900":164,"1000":164},window.datawrapper["wQJKW"].iframe=document.getElementById("datawrapper-chart-wQJKW"),window.datawrapper["wQJKW"].iframe.style.height=window.datawrapper["wQJKW"].embedDeltas[Math.min(1e3,Math.max(100*Math.floor(window.datawrapper["wQJKW"].iframe.offsetWidth/100),100))]+"px",window.addEventListener("message",function(a){if("undefined"!=typeof a.data["datawrapper-height"])for(var b in a.data["datawrapper-height"])if("wQJKW"==b)window.datawrapper["wQJKW"].iframe.style.height=a.data["datawrapper-height"][b]+"px"});</script>
+#### Google Tour Creator
+This is my 360 mmersive tour created using Google Tour Creator
+<iframe width="100%" height="480px" src="https://poly.google.com/view/6rEKb4cchwY/embed?chrome=min" frameborder="0" style="border:none;" allowvr="yes" allow="vr; xr; accelerometer; magnetometer; gyroscope; autoplay;" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel="" ></iframe>
+
 
